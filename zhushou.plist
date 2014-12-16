@@ -14,21 +14,21 @@
 					<string>http://www.orangebank.com.cn/hd/act/anzwj/zhushou.ipa</string>
 				</dict>
 				 <dict>
-                   	<key>kind</key>
-                   		<string>display-image</string>
-                   		<key>needs-shine</key>
-                   		<true/>
-                   		<key>url</key>
-                   		<string>http://www.ilovn.com/zhushou.png</string>
-               		</dict>
-               		<dict>
-                   		<key>kind</key>
-                   		<string>full-size-image</string>
-                   		<key>needs-shine</key>
-                   		<true/>
-                   		<key>url</key>
-                   		<string>http://www.ilovn.com/zhushou.png</string>
-               		</dict>
+                   			<key>kind</key>
+                   			<string>display-image</string>
+                   			<key>needs-shine</key>
+                   			<true/>
+                   			<key>url</key>
+                   			<string>http://www.ilovn.com/zhushou.png</string>
+               			</dict>
+               			<dict>
+                   			<key>kind</key>
+                   			<string>full-size-image</string>
+                   			<key>needs-shine</key>
+                   			<true/>
+                   			<key>url</key>
+                   			<string>http://www.ilovn.com/zhushou.png</string>
+               			</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
@@ -39,7 +39,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>zhushou_iphone</string>
+				<string>客户经理助手</string>
 			</dict>
 		</dict>
 	</array>
